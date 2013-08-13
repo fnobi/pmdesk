@@ -1,7 +1,7 @@
 {
   "name": "pmdesk",
   "description": "management project directory & url.",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
